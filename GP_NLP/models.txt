@@ -1,0 +1,88 @@
+man
+woman
+girl
+boy
+old woman
+old man
+enfant
+king
+queen
+doctor
+chef
+solider
+santa claus
+cat
+dog
+puppy
+lion
+cow
+butterfly
+bird
+fish
+duck
+insect
+superhero
+mermaid
+robot
+alien
+tree
+rose
+flowers
+house plant
+car
+bicycle
+bus
+truck
+fire truck
+mobile
+laptop
+tv
+remote control
+camera
+computer
+telephone
+funiture
+chair
+sofa
+bed
+fridge
+wardrobe
+table
+door
+window
+fan
+air conditioner
+air conditioner
+food
+sandwich
+some plates
+juice
+water bottle
+cake
+birthday cake
+toy
+car
+ball
+playstation
+playstation arm
+objects
+book
+pen
+paper
+wall clock
+box
+bottle
+cup
+plates
+glass
+key
+sword
+gun
+wall photos
+umbrella
+comb
+dollar
+coin
+gift
+christmas tree
+alarm

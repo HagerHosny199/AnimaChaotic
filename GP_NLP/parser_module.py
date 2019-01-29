@@ -16,9 +16,10 @@ class parser_module(object):
     '''
     def parse(self,text):
         dep_list=[]
-        props = {'annotators': 'coref'}
+        props = {'annotators': 'depparse,coref'}
         result = json.loads(self.nlp.annotate(text, properties=props))
         mentions = result['corefs'].items()
+        print("parse results",self.nlp.dependency_parse(text))
         #for mention in mentions:
          #   print("we are getting the mentions",mention)
         return mentions
